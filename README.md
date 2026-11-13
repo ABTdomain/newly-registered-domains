@@ -100,6 +100,11 @@ dk search nrds query=ai tld=com limit=20   # query the 15-minute NRD stream
 
 Integrates NRD data into your workflows: call NRD search, the daily list download, WHOIS, DNS and bulk lookups from your own services or scheduled jobs.
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=8bXfKV5-eGw"><img src="https://img.youtube.com/vi/8bXfKV5-eGw/maxresdefault.jpg" alt="Video: How to get a newly registered domains feed with the DomainKits API" width="640"></a><br>
+<a href="https://www.youtube.com/watch?v=8bXfKV5-eGw">▶ Watch on YouTube: How to Get a Newly Registered Domains Feed with an API</a>
+</p>
+
 - **Python SDK**: [ABTdomain/domainkits-sdk-py](https://github.com/ABTdomain/domainkits-sdk-py)
 - **Go SDK**: [ABTdomain/domainkits-sdk-go](https://github.com/ABTdomain/domainkits-sdk-go)
 - **TypeScript SDK**: [ABTdomain/domainkits-sdk-js](https://github.com/ABTdomain/domainkits-sdk-js)
