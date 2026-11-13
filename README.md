@@ -115,6 +115,10 @@ Integrates NRD data into your workflows: call NRD search, the daily list downloa
 
 [`examples/com-sample.txt`](examples/com-sample.txt) holds 20 random .com newly registered domains from the newest 500, one domain per line. It is updated here about every 30 minutes.
 
+## Related
+
+- [ABTdomain/expired-domains](https://github.com/ABTdomain/expired-domains): expired domains tracked from grace period to pending delete across 1,100+ gTLDs
+
 ## Contact us
 
 - Email: [info@domainkits.com](mailto:info@domainkits.com)
