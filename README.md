@@ -9,7 +9,7 @@
 
 Newly registered domains are alternative data for the internet. Each registration is a user action, and often the first signal of a series of actions.
 
-More than **300,000 newly registered domains** appear every day across gTLDs, carrying early signals of new startups, product launches, keyword trends and brand lookalikes.
+More than **300,000 newly registered domains** appear every day across TLDs, carrying early signals of new startups, product launches, keyword trends and brand lookalikes.
 
 **DomainKits.com** makes analyzing NRDs easier.
 
@@ -53,7 +53,7 @@ Start with **Keyword** (a term across all TLDs or one), **Browse by TLD** (one T
 
 ### [Free NRD list](https://domainkits.com/download/nrds?utm_source=github&utm_medium=hub_repo&utm_content=section_free_list)
 
-Download typically **300,000 to 350,000 newly registered domains every day** across gTLDs.
+Download typically **200,000 to 350,000 newly registered domains every day** across gTLDs.
 
 - **Four daily packages**: `ALL` (every gTLD), `POPULAR` (the major legacy gTLDs), `OTHER` (new gTLDs) and `.COM`
 - **Plain files**: `TXT` and `CSV`, up to **30 days** of history, no personal data
