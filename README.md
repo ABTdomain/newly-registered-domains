@@ -7,6 +7,8 @@
 [![AI native: MCP, CLI and Skills](https://img.shields.io/badge/AI%20native-MCP%20%C2%B7%20CLI%20%C2%B7%20Skills-0284C7?labelColor=1F2937)](#mcp-server)
 [![No registrant PII](https://img.shields.io/badge/PII-none-0284C7?labelColor=1F2937)](#what-makes-domainkits-different)
 
+Newly registered domains are alternative data for the internet. Each registration is a user action, and often the first signal of a series of actions.
+
 More than **300,000 newly registered domains** appear every day across gTLDs, carrying early signals of new startups, product launches, keyword trends and brand lookalikes.
 
 **DomainKits.com** makes analyzing NRDs easier.
@@ -113,7 +115,7 @@ Integrates NRD data into your workflows: call NRD search, the daily list downloa
 
 ## Sample data
 
-[`examples/com-sample.txt`](examples/com-sample.txt) holds 20 random .com newly registered domains from the newest 500, one domain per line. It is updated here about every 30 minutes.
+[`examples/com-sample.txt`](examples/com-sample.txt) holds 20 random .com newly registered domains from the newest 500, one domain per line. It is updated here about every hour. Each update is a snapshot of registration activity at the moment it was published.
 
 ## Related
 
