@@ -108,7 +108,7 @@ Integrates NRD data into your workflows: call NRD search, the daily list downloa
 
 ## Sample data
 
-[`examples/com-sample.txt`](examples/com-sample.txt) holds 20 random .com newly registered domains from the newest 500, one domain per line. It is updated here about every 30 minutes.
+[`examples/com-sample.txt`](examples/com-sample.txt) holds 20 random .com newly registered domains from the newest 500, one domain per line.
 
 ## Contact us
 
