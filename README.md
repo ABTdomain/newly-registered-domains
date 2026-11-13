@@ -55,7 +55,7 @@ Download typically **300,000 to 350,000 newly registered domains every day** acr
 
 - **Four daily packages**: `ALL` (every gTLD), `POPULAR` (the major legacy gTLDs), `OTHER` (new gTLDs) and `.COM`
 - **Plain files**: `TXT` and `CSV`, up to **30 days** of history, no personal data
-- **Sample**: [100 random .com NRDs registered on 2026-11-12](examples/domains-com-2026-11-12-sample-100.txt)
+- **Sample**: [20 random .com NRDs, refreshed about every 30 minutes](examples/com-sample.txt)
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=USR_STbhazg"><img src="https://img.youtube.com/vi/USR_STbhazg/maxresdefault.jpg" alt="Video: How to get a free newly registered domains list with the daily download" width="640"></a><br>
