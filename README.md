@@ -82,6 +82,11 @@ Lets AI analyze NRDs with [ABTdomain/domainkits-mcp](https://github.com/ABTdomai
 
 Uses the DomainKits API from the command line: `dk` is one binary with no dependencies, takes `key=value` parameters, prints the API response as returned, and returns exit codes that AI agents and scripts can branch on (`0` success, `1` API error, `2` usage or network error).
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=l5L919wRKOI"><img src="https://img.youtube.com/vi/l5L919wRKOI/maxresdefault.jpg" alt="Video: How to find newly registered domains from your terminal with the DomainKits CLI" width="640"></a><br>
+<a href="https://www.youtube.com/watch?v=l5L919wRKOI">▶ Watch on YouTube: How to Find Newly Registered Domains From Your Terminal</a>
+</p>
+
 ```bash
 export DOMAINKITS_API_KEY=dk_...
 dk download tld=com type=domains_only      # pull the free daily NRD list
