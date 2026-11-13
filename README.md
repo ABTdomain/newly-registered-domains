@@ -25,13 +25,13 @@ A typical NRD list is a file that arrives once a day. DomainKits runs NRDs as a 
 
 Pick the interface that fits your workflow:
 
-| Way | Best for | Freshness | Coverage |
-|---|---|---|---|
-| [**NRD search**](#nrd-search) | A keyword or TLD question you want answered now | 15 Mins | 1,400+ TLDs |
-| [**Free NRD list**](#free-nrd-list) | Feeding your own pipeline | Daily | 1,000+ TLDs |
-| [**MCP server**](#mcp-server) | LLM-assisted deep dives into NRDs | 15 Mins | 1,400+ TLDs |
-| [**CLI**](#cli) | Integrating NRD data into AI agent workflows | 15 Mins | 1,400+ TLDs |
-| [**API**](#api) | Integrating NRD data into your workflows | 15 Mins | 1,400+ TLDs |
+| Way | Best for | Freshness | Windows | Coverage |
+|---|---|---|---|---|
+| [**NRD search**](#nrd-search) | A keyword or TLD question you want answered now | 15 Mins | 60 days | 1,400+ TLDs |
+| [**Free NRD list**](#free-nrd-list) | Feeding your own pipeline | Daily | 30 days | 1,000+ TLDs |
+| [**MCP server**](#mcp-server) | LLM-assisted deep dives into NRDs | 15 Mins | 60 days | 1,400+ TLDs |
+| [**CLI**](#cli) | Integrating NRD data into AI agent workflows | 15 Mins | 60 days | 1,400+ TLDs |
+| [**API**](#api) | Integrating NRD data into your workflows | 15 Mins | 60 days | 1,400+ TLDs |
 
 ### [NRD search](https://domainkits.com/search/nrds?utm_source=github&utm_medium=hub_repo&utm_content=section_search)
 
