@@ -55,7 +55,6 @@ Download typically **300,000 to 350,000 newly registered domains every day** acr
 
 - **Four daily packages**: `ALL` (every gTLD), `POPULAR` (the major legacy gTLDs), `OTHER` (new gTLDs) and `.COM`
 - **Plain files**: `TXT` and `CSV`, up to **30 days** of history, no personal data
-- **Sample**: [20 random .com NRDs, refreshed about every 30 minutes](examples/com-sample.txt)
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=USR_STbhazg"><img src="https://img.youtube.com/vi/USR_STbhazg/maxresdefault.jpg" alt="Video: How to get a free newly registered domains list with the daily download" width="640"></a><br>
@@ -101,6 +100,10 @@ Integrates NRD data into your workflows: call NRD search, the daily list downloa
 - **TypeScript SDK**: [ABTdomain/domainkits-sdk-js](https://github.com/ABTdomain/domainkits-sdk-js)
 - **n8n node**: [ABTdomain/domainkits-n8n](https://github.com/ABTdomain/domainkits-n8n), with a ready-made template for [daily keyword-based domain registration alerts via email](https://n8n.io/workflows/17578-send-daily-keyword-based-domain-registration-alerts-with-domainkits-via-email/)
 - **Node-RED nodes**: [ABTdomain/node-red-contrib-domainkits](https://github.com/ABTdomain/node-red-contrib-domainkits)
+
+## Sample data
+
+[`examples/com-sample.txt`](examples/com-sample.txt) holds 20 random .com newly registered domains from the newest 500, one domain per line. It is updated here about every 30 minutes.
 
 ## Contact us
 
