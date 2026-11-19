@@ -79,6 +79,7 @@ Lets AI analyze NRDs with [ABTdomain/domainkits-mcp](https://github.com/ABTdomai
 - **Analyze the website**: live business, parked page, for-sale landing or redirect, with its backlink profile
 - **Map the footprint**: the same name across TLDs, and typosquat variants around a brand
 - **Automate the workflow**: build these steps into your own skills, or try [ABTdomain/domainkits-skills](https://github.com/ABTdomain/domainkits-skills)
+- **Run an agent**: [ABTdomain/domainkits-nrd-agent](https://github.com/ABTdomain/domainkits-nrd-agent) finds new sites on newly registered domains and keeps watching them
 
 ### [CLI](https://github.com/ABTdomain/domainkits-cli)
 
